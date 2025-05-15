@@ -1,6 +1,6 @@
 # Fullstack React App with Express and PostgreSQL
 
-This project is a fullstack application with React frontend, Express backend, and PostgreSQL database.
+This project is fullstack application with React frontend, Express backend, and PostgreSQL database.
 
 ## Project Structure
 
